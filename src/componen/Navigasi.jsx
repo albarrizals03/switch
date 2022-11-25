@@ -8,6 +8,7 @@ export class Navigasi extends Component {
 <Link to="/Profil"> Profil</Link>
 <Link to="/Album"> Album</Link>
 <Link to="/Kontak"> Kontak</Link>
+<Link to="/Switch"> Switch</Link>
       </div>
     )
   }
